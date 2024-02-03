@@ -1,0 +1,14 @@
+{
+  "name": "Chubs",
+  "desc": "Chubs by Modordinal",
+  "image": "atom:btc:dat:02c65c0b53fba0210cae2e029461ed4b4f798d12e563672f720735565abf709ai0/logo.png",
+  "legal": {
+    "terms": "...",
+    "license": "CC"
+  },
+  "links": {
+    "x": {
+      "v": "https://twitter.com/modordinal"
+    }
+  }
+}
